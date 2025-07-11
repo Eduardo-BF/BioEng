@@ -50,8 +50,8 @@ O script MATLAB executa as seguintes etapas:
 
 ### Exemplo de trechos limpo e ruidoso
 <p align="center">
-  <img src="imagens/F1_limp.png" width="300" />
-  <img src="imagens/F2_ruid.png" width="300" />
+  <img src="imagens/F1_limp.png" width="400" />
+  <img src="imagens/F2_ruid.png" width="400" />
 </p>
 
 
