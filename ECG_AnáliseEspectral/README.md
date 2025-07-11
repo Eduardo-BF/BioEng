@@ -50,15 +50,15 @@ O script MATLAB executa as seguintes etapas:
 
 ### Exemplo de trechos limpo e ruidoso
 <p align="center">
-  <img src="imagens/F1_limp.png" width="400" />
-  <img src="imagens/F2_ruid.png" width="400" />
+  <img src="imagens/F1_limp.png" width="500" />
+  <img src="imagens/F2_ruid.png" width="500" />
 </p>
 
 
 
 ### Comparação dos Espectros de Sinais:
 
-<img src="imagens/F4_PSD_limp_ruid.png" alt="Espectro de Potência dos trechos com e sem ruído" width="450">
+<img src="imagens/F4_PSD_limp_ruid.png" alt="Espectro de Potência dos trechos com e sem ruído" width="700">
 
 > 🔎 *Valores normalizados.*
 
@@ -68,11 +68,11 @@ Maior parte da informação do sinal original se encontra abaixo dos 40 Hz. O ru
 
 #### Comparativo no Domínio do Tempo
 
-<img src="imagens/F6_FIR_temp.png" alt="Sinal Limpo e com Ruido antes e depois de aplicar filtro FIR" width="450">
+<img src="imagens/F6_FIR_temp.png" alt="Sinal Limpo e com Ruido antes e depois de aplicar filtro FIR" width="700">
 
 #### Comparativo Espectro de potência
 
-<img src="imagens/F5_FIR_PSD.png" alt="Espectro de Potência antes e depois de aplicar filtro FIR" width="450">
+<img src="imagens/F5_FIR_PSD.png" alt="Espectro de Potência antes e depois de aplicar filtro FIR" width="700">
 
 > 🔎 *Imagens ilustrativas — substitua pelos seus gráficos reais e ajuste os caminhos.*
 
@@ -81,11 +81,11 @@ Maior parte da informação do sinal original se encontra abaixo dos 40 Hz. O ru
 
 #### Comparativo no Domínio do Tempo
 
-<img src="imagens/F8_IIR_temp.png" alt="Sinal Limpo e com Ruido antes e depois de aplicar filtro FIR" width="450">
+<img src="imagens/F8_IIR_temp.png" alt="Sinal Limpo e com Ruido antes e depois de aplicar filtro FIR" width="700">
 
 #### Comparativo Espectro de potência
 
-<img src="imagens/F7_IIR_PSD.png" alt="Espectro de Potência antes e depois de aplicar filtro FIR" width="450">
+<img src="imagens/F7_IIR_PSD.png" alt="Espectro de Potência antes e depois de aplicar filtro FIR" width="700">
 
 > 🔎 *Imagens ilustrativas — substitua pelos seus gráficos reais e ajuste os caminhos.*
 
